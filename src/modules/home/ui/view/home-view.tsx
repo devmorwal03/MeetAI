@@ -10,7 +10,7 @@ export const HomeView = () => {
 
   if(!session) {
     return (
-      <p>Loding....</p>
+      <p>Loading....</p>
     )
   }
 
